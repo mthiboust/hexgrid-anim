@@ -2,7 +2,7 @@
 
 Playing with hexagonal grids with [Manim](https://github.com/ManimCommunity/manim). 
 
-![Infinite nested hexgrids](https://raw.githubusercontent.com/mthiboust/hexgrid-anim/docs/infinite_nested_hexgrid_640x360.gif)
+![Infinite nested hexgrids](https://raw.githubusercontent.com/mthiboust/hexgrid-anim/main/docs/infinite_nested_hexgrid_640x360.gif)
 
 # Installation
 
