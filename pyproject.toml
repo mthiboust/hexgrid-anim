@@ -1,0 +1,14 @@
+[project]
+name = "hexgrid-anim"
+version = "0.1"
+description = "Animation of infinitely nested hexagonal grids."
+authors = [
+    {name = "Matthieu Thiboust", email = ""},
+]
+dependencies = [
+    "manim>=0.14.0",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "Apache License 2.0"}
+
